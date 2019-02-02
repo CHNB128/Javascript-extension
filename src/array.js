@@ -14,3 +14,10 @@ Array.prototype.zip = function(array) {
 Array.prototype.first = function() {
   return this[0]
 }
+
+/**
+ * @description return last item form array
+ */
+Array.prototype.last = function() {
+  return this[this.length - 1]
+}
