@@ -1,0 +1,10 @@
+{
+  "name": "Javascript-extension",
+  "version": "1.0.0",
+  "description": "asd",
+  "main": "asd",
+  "repository": "git@github.com:CHNB128/Javascript-extension.git",
+  "author": "drake.aren <drake.aren@protonmail.com>",
+  "license": "MIT",
+  "private": false
+}
